@@ -14,18 +14,25 @@ find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(std_msgs REQUIRED)
 find_package(geometry_msgs REQUIRED)
+find_package(nav_msgs REQUIRED)
+find_package(tf2_ros REQUIRED)
 
 
 
-add_executable(drive_turtle src/drive_turtle.cpp)
-ament_target_dependencies(drive_turtle rclcpp geometry_msgs)
+
+
+
+add_executable(spiral_turtle src/spiral_turtle.cpp)
+ament_target_dependencies(spiral_turtle rclcpp std_msgs geometry_msgs)
 
 install(TARGETS
-   drive_turtle
+  # back_forth
+  spiral_turtle
   DESTINATION lib/${PROJECT_NAME})
 
-
-install(DIRECTORY launch
+  install(DIRECTORY launch
   DESTINATION share/${PROJECT_NAME})
+
+
 
 ament_package()
