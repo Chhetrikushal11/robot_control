@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kushal16/robotisim_ws/install/ros2_kitti_publishers/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/kushal16/robotisim_ws/src/control_systems/include/**",
+        "/home/kushal16/robotisim_ws/src/custom_robots/include/**",
+        "/home/kushal16/robotisim_ws/src/drive_mobile_robot/include/**",
+        "/home/kushal16/robotisim_ws/src/maze_solving/include/**",
+        "/home/kushal16/robotisim_ws/src/ros2_kitti_publishers/include/**",
+        "/home/kushal16/robotisim_ws/src/sensor_fusion/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,17 @@
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/lib/robot_control_pkg/drive_turtle
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/launch/tb_bringup.launch.py
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/ament_index/resource_index/package_run_dependencies/robot_control_pkg
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/ament_index/resource_index/parent_prefix_path/robot_control_pkg
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/environment/ament_prefix_path.sh
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/environment/ament_prefix_path.dsv
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/environment/path.sh
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/environment/path.dsv
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/local_setup.bash
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/local_setup.sh
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/local_setup.zsh
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/local_setup.dsv
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/package.dsv
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/ament_index/resource_index/packages/robot_control_pkg
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/cmake/robot_control_pkgConfig.cmake
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/cmake/robot_control_pkgConfig-version.cmake
+/home/kushal16/robotisim_ws/src/robot_control/install/robot_control_pkg/share/robot_control_pkg/package.xml

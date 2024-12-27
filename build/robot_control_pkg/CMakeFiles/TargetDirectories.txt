@@ -1,0 +1,10 @@
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/uninstall.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/robot_control_pkg_uninstall.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/drive_turtle.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/test.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/edit_cache.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/rebuild_cache.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/list_install_components.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/install.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/install/local.dir
+/home/kushal16/robotisim_ws/src/robot_control/build/robot_control_pkg/CMakeFiles/install/strip.dir
